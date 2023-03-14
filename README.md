@@ -1,4 +1,4 @@
-# Joint-Savings
+# Joint-Savings with Solidity
 ![image](https://user-images.githubusercontent.com/114365472/224857952-59344114-6f54-4787-8265-42d3e2b2fa28.png)
 
 Background
